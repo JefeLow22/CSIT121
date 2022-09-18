@@ -1,0 +1,69 @@
+body {
+	background-color: maroon;
+}
+
+h1 {
+	color: yellow;
+}
+
+h2 {
+	color: yellow;
+}
+
+p {
+	color: yellow;
+}
+
+h3 {
+	color: yellow;
+}
+
+h1 {
+	font-family: Lucida Console, Monospace;
+}
+
+h2 {
+	font-family: Lucida handwriting, cursive;
+}
+
+h3 {
+	font-family: Lucida Console, monospace;
+}
+
+ul {
+	color: orange;
+}
+
+ol {
+	color:  orange;
+}
+
+ul {
+	font-family: brush script M7, cursive;
+}
+
+ol {
+	font-family: brush script M7, cursive;
+}
+
+p {
+	font-family: brush script M7, cursive;
+}
+
+h1 {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	width: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
